@@ -3,7 +3,7 @@
 title: Shivam Vaishampayan
 
 # Name pronunciation (optional)
-name_pronunciation: Shivam Vaishampayan
+# name_pronunciation: Shivam Vaishampayan
 
 # Full name (for SEO)
 first_name: Shivam
