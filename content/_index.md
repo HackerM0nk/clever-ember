@@ -39,11 +39,11 @@ sections:
       is_education_first: false
   - block: skills
     content:
-      title: Skills & Hobbies
+      title: Technical Skills & Expertise
       username: admin
   - block: awards
     content:
-      title: Awards
+      title: Certifications & Achievements
       username: admin
   - block: languages
     content:
